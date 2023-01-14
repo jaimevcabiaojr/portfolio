@@ -1,0 +1,150 @@
+html {
+    background-color: #474d48;
+    padding: 5px;
+}
+
+body {
+    background-color: rgb(84, 121, 90);
+    margin: auto;
+    height: 1000px;
+    width: 65%;
+    padding: 5px;
+    position: relative;
+
+}
+
+.main-left {
+    background-color: #7a927f;
+    margin-top: 0;
+    padding: 5px;
+
+    height: 1000px;
+    width: 30%;
+    position: absolute;
+}
+
+.main-left img {
+    margin-top: 10px;
+    margin-left: 15%;
+    border-radius: 50%;
+    position: relative;
+}
+
+
+
+.name-cont{
+
+    position: absolute;
+    margin-left: 3px;
+    margin-top: 200px;
+    width: 20%;
+    font-size: smaller;
+
+}
+
+.name-cont h4{
+    border-color: #1d3621;
+    border-style:  solid ;
+    border-width: 3px 30px 3px 1px;
+}
+
+.name-personal{
+
+    position: absolute;
+    margin-left: 3px;
+    margin-top: 350px;
+    width: 20%;
+    font-size: smaller;
+
+}
+
+.name-personal h4{
+    border-color: #1d3621;
+    border-style:  solid ;
+    border-width: 3px 30px 3px 1px;
+}
+
+
+.name-interests{
+    position: absolute;
+    margin-left: 3px;
+    margin-top: 550px;
+    width: 20%;
+    font-size: smaller;
+}
+
+.name-interests h4{
+    border-color: #1d3621;
+    border-style:  solid ;
+    border-width: 3px 30px 3px 1px;
+}
+
+.name-name {
+    position: relative;
+    margin-top: 1px;
+    margin-left: 35%;
+    width: 500px;
+    line-height: 0.3;
+    font-size: 25px;
+}
+
+.name-name h4 {
+    position: relative;
+    margin-top: 0px;
+    margin-left: 4px;
+    line-height: 0.1%;
+    font-size: small;
+
+}
+
+.name-profile {
+
+    position: absolute;
+    margin-top: 4px;
+    margin-left: 35%;
+    width: 350px;
+
+}
+
+.name-profile h3 {
+    border-color: #0f3115;
+    border-style:  solid ;
+    border-width: 3px 50px 3px 1px;
+    
+    
+
+}
+
+.name-workx {
+
+    position:absolute;
+    margin-top: 150px;
+    margin-left: 35%;
+    width: 350px;
+
+}
+
+.name-workx h3{
+    border-color: #0f3115;
+    border-style:  solid ;
+    border-width: 3px 50px 3px 1px;
+}
+
+.name-educ{
+
+    position:absolute;
+    margin-top: 300px;
+    margin-left: 35%;
+    width: 350px;
+
+}
+ .name-educ h3{
+    border-color: #0f3115;
+    border-style:  solid ;
+    border-width: 3px 50px 3px 1px;
+ }
+
+
+.clearfix {
+    overflow: auto;
+}
